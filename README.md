@@ -128,7 +128,7 @@ Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordand
 
 - Acesse a pasta do projeto
 
-- cd pathfinder
+- cd <seu-projeto>
 
 - Instale as dependências
 

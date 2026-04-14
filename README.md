@@ -1,4 +1,4 @@
-# PathFinder BR
+# PathFinder BR 
 
 **Conteúdo da disciplina:** Grafos
 
@@ -128,7 +128,7 @@ Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordand
 
 - Acesse a pasta do projeto
 
-- cd <seu-projeto>
+- cd G28_Grafos_PA-26.1
 
 - Instale as dependências
 

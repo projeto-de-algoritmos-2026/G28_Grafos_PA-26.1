@@ -108,7 +108,7 @@ pathfinder/
 ### Vídeo de apresentação
 Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordando os principais conceitos teóricos e a demonstração prática da aplicação.
 
-Assista no YouTube: [https://www.youtube.com/watch?v=EXEMPLO](https://www.youtube.com/watch?v=EXEMPLO) _(substitua pelo link real do vídeo quando estiver publicado.)_
+[Assista no YouTube](https://youtu.be/E6-dtBYbKoc) 
 
 ## Instalação
 ### Linguagem e stack
